@@ -1,1 +1,1 @@
-# A_Bayesian_Network_for_Heart_Attack_Prevention-A_FAIKR_-mod3-_Project
+# A Bayesian Network for Heart Attack Prevention - A Fundamentals of AI and Knowledge Representation (module 3) Project
